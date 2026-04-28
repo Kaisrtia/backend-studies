@@ -7,3 +7,4 @@ Btw, I will update what I learn in this main branch's `README.md` file.
 The concepts I learn will be shown in their respective branches.
 
 Lesson 1: OSI Model
+Lesson 2: TCP vs UDP
