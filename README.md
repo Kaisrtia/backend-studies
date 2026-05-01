@@ -10,3 +10,4 @@ Lesson 1: OSI Model
 Lesson 2: TCP vs UDP
 Lesson 3: HTTP 1.0/1.1, HTTP/2, HTTP/3
 Lesson 4: Network & Transport Security
+Lesson 5: Proxy vs Reverse Proxy Server
