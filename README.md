@@ -12,3 +12,4 @@ Lesson 3: HTTP 1.0/1.1, HTTP/2, HTTP/3
 Lesson 4: Network & Transport Security
 Lesson 5: Proxy vs Reverse Proxy Server
 Lesson 6: All about database
+Lesson 7: Asynchronous vs Multithreading and Multiprocessing Programming (The Main Difference)
